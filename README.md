@@ -1,5 +1,5 @@
 # Battleship
-Command Line version of the pencil and paper game "Battleship".
+Command Line version of the pencil and paper game "Battleship". Made as a small personal project.
 
 Initial setup uses a 8x8 board and 5 ships: Carrier (5), Battleship (4), Cruiser (3), Submarine (3) and Destroyer (2)
 These can be edited in the initial lines of code.
